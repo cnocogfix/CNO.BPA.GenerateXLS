@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\InputAccel\Client\binnt\QuickModuleHost.exe</StartProgram>
+    <StartWorkingDirectory>C:\Users\cdskui\AppData\Local\EMC\InputAccel\6.0\SCRPTENG\Scripts\Cache\</StartWorkingDirectory>
+    <StartArguments>-modulename:Emc.InputAccel.ScriptEngine</StartArguments>
+  </PropertyGroup>
+</Project>
